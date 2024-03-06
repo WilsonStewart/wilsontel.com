@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Hawthorn';
+    src: url('hawthorn.ttf');
+  }
+
+td, th {
+    border: 1px solid;
+    border-color:black;
+    padding: 5px;
+}
+  
